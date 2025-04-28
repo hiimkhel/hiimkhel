@@ -11,7 +11,7 @@
 - **Tools:** Git, Postman, VSCode, Render
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hiimkhel&show_icons=true&theme=radical)
 
 
 ## 📫 How to reach me
